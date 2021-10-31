@@ -96,6 +96,9 @@ WORKDIR /var/www/marketing/promotions
 
 #adding the promotions.html file 
 COPY promotions.html .
+COPY baristas.html .
+COPY index.html .
+COPY bubbletea.jpg .
 
 # Add in other directives as needed
 LABEL Maintainer: "jazmin.celestino.694@my.csun.edu"
