@@ -1,0 +1,10 @@
+Name: Jazmin Celestino
+Lab Name: z_apache-configuration
+Date Assigned: 10/19/21
+Date Completed: 10/30/21
+Status: Completed, Good Progress
+Outstanding Issues:
+    There would be an error about the command: CMD ["/usr/sbin/apache2ctl", "-D","FOREGROUND"]
+    when I ran the Docker image. I was able to fix the problem later on.
+Major Impediments: None
+Feedback Comments: None
